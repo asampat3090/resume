@@ -9,14 +9,14 @@
 
 ## 💼 Leadership Experience 
 **Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Present)*
-* Developed new technical analytical organization (org struct, comp, career ladder, etc) from scratch which develops model prototypes to satisfy customer needs
+* Developed new technical analytical organization (org struct, comp, career ladder, etc) from scratch which develops model prototypes to integrate impact statistics from natural disasters into users' workflow
 * Led technical diligence and PoC implementation to secure $100M investment from SOMPO [Details](https://techcrunch.com/2021/06/03/one-concern-sompo/)
 * Hired & formulated JDs for ~20 data scientists, engineers, and technical subject matter experts (Interviewed 100+)
 * Managed and coached Solutions and Data Science members (5 and counting)
 * Facilitated process for data, model, and code versioning system for efficient model deployment across orgs
 
 **CEO & Co-founder** @ [Datmo (acq. One Concern)](https://datmo.com) *(October 2015 - 2019)*
-* Raised seed round, secured multiple customers, and facilitated acquisition
+* Raised seed round, secured multiple customers, and facilitated acquisition of MLOps & AI-consulting startup
 * Hired & formulated JDs for ~15 engineers, data scientists and sales people (Interviewed 50+)
 * Managed & coached 10 on-shore & off-shore engineers, data scientists, and sales via an agile process 
 * Iterated on requirements and implementation w/ media customers for large-scale video and image search.
@@ -67,7 +67,7 @@
 
 **MLOps + ML/AI Consulting** @ Lotus AI, LLC.
 * MLOps network contribution and writing (currently writing a book "Machine Learning in the Real World")
-* Consulting and implementation for startups on ML algorithms and best stack to implement
+* Consulting and implementation for startups on ML algorithms and the best fit ML stack to implement for their use case
 
 ## 😀 Hobbies
 **🏃🏽‍♂️ Marathon Running** 
