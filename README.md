@@ -3,12 +3,17 @@
 
 [Email](me@anandsampat.com)/[Website](https://anandsampat.com)/[LinkedIn](https://linkedin.com/in/anandsampat)/[Github](https://github.com/asampat3090)/[Twitter](https://twitter.com/anandsampat)
 
+## 🧑🏽‍🎓 Education 
+* Stanford (MS EE - AI focus, MS MS&E - dropped out)
+* Berkeley (BS EECS, BS MatSci, MS MatSci)
+
 ## 💼 Leadership Experience 
 **Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Present)*
-* Developed new technical analytical organization (org struct, comp, career ladder, etc) from scratch to implement customer projects 
+* Developed new technical analytical organization (org struct, comp, career ladder, etc) from scratch which develops model prototypes to satisfy customer needs
+* Led technical diligence and PoC implementation to secure $100M investment from SOMPO [Details](https://techcrunch.com/2021/06/03/one-concern-sompo/)
 * Hired & formulated JDs for ~20 data scientists, engineers, and technical subject matter experts (Interviewed 100+)
 * Managed and coached Solutions and Data Science members (5 and counting)
-* Facilitated process for data, model, and code versioning system for efficient processing across orgs
+* Facilitated process for data, model, and code versioning system for efficient model deployment across orgs
 
 **CEO & Co-founder** @ [Datmo (acq. One Concern)](https://datmo.com) *(October 2015 - 2019)*
 * Raised seed round, secured multiple customers, and facilitated acquisition
@@ -50,6 +55,11 @@
 **Software Engineering Associate** @ [StartX Accelerator](https://startx.com/) *(2012)*
 * Worked on engineering Ruby on Rails website for branding and operations
 
+## 📜 Submitted Patents
+"Method and system for an end-to-end artificial intelligence workflow" - US10936969B2
+* https://patents.google.com/patent/US10936969B2/en (ACTIVE)
+* https://patents.google.com/patent/US20210158219A1/en (EXTENSION PENDING)
+
 ## 📌 On the Side 
 **Host & Author** @ Doing Well by Doing Good [Podcast](https://anchor.fm/dwdg) and [Newsletter](https://dwdg.substack.com)
 * Writing about companies and enablers for companies that marry for-profit motives with purpose-driven missions
@@ -59,11 +69,10 @@
 * MLOps network contribution and writing (currently writing a book "Machine Learning in the Real World")
 * Consulting and implementation for startups on ML algorithms and best stack to implement
 
-## 📜 Submitted Patents
-"Method and system for an end-to-end artificial intelligence workflow" - US10936969B2
-* https://patents.google.com/patent/US10936969B2/en (ACTIVE)
-* https://patents.google.com/patent/US20210158219A1/en (EXTENSION PENDING)
+## 😀 Hobbies
+**🏃🏽‍♂️ Marathon Running** 
+* Completed over 8 marathons and over 15 other shorter races (5k, half, etc)
+* Sub-3 hour marathon time to qualify for Boston Marathon 2020 (virtual) and 2021 (in-person)
 
-## 🧑🏽‍🎓 Education 
-* Stanford (MS EE - AI focus, MS MS&E - dropped out)
-* Berkeley (BS EECS+MatSci, MS MatSci)
+**🎹 Making Music** 
+* Enjoy composing piano covers of songs and remixes - you can find them @ [SoundCloud](https://soundcloud.com/anand-sampat)
