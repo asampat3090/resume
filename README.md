@@ -1,7 +1,10 @@
 # Anand Sampat 
-*Technical leader in ML + MLOps + HW + SW Engineering (and sometimes podcast host)*
+*Entrepreneurial Technical Leader in ML + MLOps + HW + SW Engineering (and sometimes podcast host)*
 
 [Email](me@anandsampat.com)/[Website](https://anandsampat.com)/[LinkedIn](https://linkedin.com/in/anandsampat)/[Github](https://github.com/asampat3090)/[Twitter](https://twitter.com/anandsampat)
+
+## 👋🏽 Intro 
+Hi I'm Anand! I am an experienced entrepreneur committed to [Doing Well by Doing Good](https://dwdgsf.com) with a history of building teams, products, companies, and solutions that address customer business needs. I am looking to lead teams at high-growth companies solving difficult problems using technology (ML, SW, HW, etc) in order to create outsized business value (doing well) while making a positive impact to those most in need (doing good). 
 
 ## 🧑🏽‍🎓 Education 
 * Stanford (MS EE - AI focus, MS MS&E - dropped out)
@@ -10,7 +13,7 @@
 ## 💼 Leadership Experience 
 **Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Present)*
 * Developed new technical analytical organization (org struct, comp, career ladder, etc) from scratch which develops model prototypes to integrate impact statistics from natural disasters into users' workflow
-* Led technical diligence and PoC implementation to secure $100M investment from SOMPO [Details](https://techcrunch.com/2021/06/03/one-concern-sompo/)
+* Led technical diligence and PoC implementation to secure $100M investment from SOMPO to promote disaster preparedness in Japan. [Details](https://techcrunch.com/2021/06/03/one-concern-sompo/)
 * Hired & formulated JDs for ~20 data scientists, engineers, and technical subject matter experts (Interviewed 100+)
 * Managed and coached Solutions and Data Science members (5 and counting)
 * Facilitated process for data, model, and code versioning system for efficient model deployment across orgs
