@@ -36,15 +36,16 @@
 * Facilitated paper submission to PLOS (in review) "A Stochastic Contact Network Model for Assessing Outbreak Risk of COVID-19 in Workplaces"
 
 **CEO & Co-founder** @ [Datmo](https://datmo.com) *(October 2015-2019)*
-* Developed novel computer vision & NLP algorithms to optimize image and video retreival (see [📜 Submitted Patents](#📜-submitted-patents))
+* Developed novel CNN architecture & NER + ASR combined algorithm trained on labeled image and video web data to extract named and generic entities (see [📜 Submitted Patents](#📜-submitted-patents))
+* Developed and optimized a speedy search index for real-time image, video, and video clip retreival via post hoc processing of concepts (see [📜 Submitted Patents](#📜-submitted-patents))
 * Developed open source project to facilitate MLOps deployment for customers - [datmo github](https://github.com/datmo/datmo)
-* Built MLOps platform for CV, NLP, and traditional ML algorithms (see [📜 Submitted Patents](#📜-submitted-patents))
+* Built MLOps platform for multiple data modalities: CV, NLP, and numerical ML algorithms (see [📜 Submitted Patents](#📜-submitted-patents))
 
 **Teaching Assistant - Machine Learning, Devices, and Physics** @ [Stanford](https://stanford.edu) *(2013-2015)*
-* Taught students mathematical and statistical fundamentals of machine learning
-* Developed course materials for discussions and for the online version
-* Led hardware labs for introductory circuits and device courses 
-* Led physics discussions and labs for introductory mechanics, E&M, and MatSci courses
+* Taught students mathematical and statistical fundamentals of machine learning. [CS 229 Syllabus](http://cs229.stanford.edu/syllabus.html)
+* Developed course materials for discussions and for the online version. [Coursera Course](https://www.coursera.org/learn/machine-learning)
+* Led hardware labs for introductory circuits and device courses.
+* Led physics discussions and labs for introductory mechanics, E&M, and MatSci courses.
 
 **Machine Learning Engineering Intern** @ [ThermoFisher Scientific](https://www.thermofisher.com/us/en/home.html) *(2014)*
 * Developed and tested ML models for real-time PCR analysis and benchmark against existing techniques
@@ -57,8 +58,9 @@
 
 ## 📜 Submitted Patents
 "Method and system for an end-to-end artificial intelligence workflow" - US10936969B2
+* https://patents.google.com/patent/US20210158219A1/en (EXTENSION PENDING - BROADER SCOPE)
 * https://patents.google.com/patent/US10936969B2/en (ACTIVE)
-* https://patents.google.com/patent/US20210158219A1/en (EXTENSION PENDING)
+* https://patents.justia.com/patent/20180089593#history (PREVIOUS - see "Deep Learning Based Search and Discovery of Media Content") 
 
 ## 📌 On the Side 
 **Host & Author** @ Doing Well by Doing Good [Podcast](https://anchor.fm/dwdg) and [Newsletter](https://dwdg.substack.com)
