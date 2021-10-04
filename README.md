@@ -15,7 +15,7 @@
 * Managed and coached Solutions and Data Science members (5 and counting)
 * Facilitated process for data, model, and code versioning system for efficient model deployment across orgs
 
-**CEO & Co-founder** @ [Datmo (acq. One Concern)](https://datmo.com) *(October 2015 - 2019)*
+**CEO & Co-founder** @ [Datmo](https://datmo-website.herokuapp.com) [(acq. One Concern)](https://www.govtech.com/biz/one-concern-acquires-startup-datmo-for-ai-expertise.html)  *(October 2015 - 2019)*
 * Raised seed round, secured multiple customers, and facilitated acquisition of MLOps & AI-consulting startup
 * Hired & formulated JDs for ~15 engineers, data scientists and sales people (Interviewed 50+)
 * Managed & coached 10 on-shore & off-shore engineers, data scientists, and sales via an agile process 
@@ -35,7 +35,7 @@
 * Facilitated patent submission (still pending) "Tool to Quantify Airborne-disease Transmission Risk in a Workplace Setting"
 * Facilitated paper submission to PLOS (in review) "A Stochastic Contact Network Model for Assessing Outbreak Risk of COVID-19 in Workplaces"
 
-**CEO & Co-founder** @ [Datmo](https://datmo.com) *(October 2015-2019)*
+**CEO & Co-founder** @ [Datmo](https://datmo-website.herokuapp.com) [(acq. One Concern)](https://www.govtech.com/biz/one-concern-acquires-startup-datmo-for-ai-expertise.html)  *(October 2015-2019)*
 * Developed novel CNN architecture & NER + ASR combined algorithm trained on labeled image and video web data to extract named and generic entities (see [📜 Submitted Patents](#📜-submitted-patents))
 * Developed and optimized a speedy search index for real-time image, video, and video clip retreival via post hoc processing of concepts (see [📜 Submitted Patents](#📜-submitted-patents))
 * Developed open source project to facilitate MLOps deployment for customers - [datmo github](https://github.com/datmo/datmo)
