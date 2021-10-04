@@ -9,7 +9,7 @@
 
 ## 💼 Leadership Experience 
 **Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Present)*
-* Developed new technical analytical organization (org struct, comp, career ladder, etc) from scratch which develops model prototypes to integrate impact statistics from natural disasters into users' workflow
+* Developed new technical analytical organization (org struct, comp, financial planning, budgeting, career ladder, prioritization, etc) from scratch which develops model prototypes to integrate impact statistics from natural disasters into users' workflow
 * Led technical diligence and PoC implementation to secure $100M investment from SOMPO to promote disaster preparedness in Japan. [Details](https://techcrunch.com/2021/06/03/one-concern-sompo/)
 * Hired & formulated JDs for ~20 data scientists, engineers, and technical subject matter experts (Interviewed 100+)
 * Managed and coached Solutions and Data Science members (5 and counting)
