@@ -26,7 +26,7 @@
 * Peer-to-peer network to learn and practice conscious leadership practices
 * Like-minded network of entrepreneurs helping solve difficult challenges (hiring, fundraising, etc.)
 
-**Entrepreneurial Leaders Fellowship** @  [Threshold Ventures](https://threshold.vc/) *(2014-2015)*
+**Entrepreneurial Leaders Fellowship** @  [Stanford](https://stvp.stanford.edu) & [Threshold Ventures](https://threshold.vc/) *(2014-2015)*
 * Practical coursework and leadership coaching and development. [Full Details](https://stvp.stanford.edu/tvf)
 
 ## 🧑🏾‍💻 Technical Experience 
