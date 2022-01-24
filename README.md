@@ -33,7 +33,7 @@
 **Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Present)*
 * Stood up COVID-19 modeling effort to model the spread w/in workplaces [COVID Calculator](https://covid19.oneconcern.com/)
 * Facilitated patent submission (still pending) "Tool to Quantify Airborne-disease Transmission Risk in a Workplace Setting"
-* Facilitated paper submission to PLOS (in review) "A Stochastic Contact Network Model for Assessing Outbreak Risk of COVID-19 in Workplaces"
+* Facilitated paper submission to PLOS One ["A Stochastic Contact Network Model for Assessing Outbreak Risk of COVID-19 in Workplaces"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262316)
 
 **CEO & Co-founder** @ [Datmo](https://datmo-website.herokuapp.com) [(acq. One Concern)](https://www.govtech.com/biz/one-concern-acquires-startup-datmo-for-ai-expertise.html)  *(October 2015-2019)*
 * Developed novel CNN architecture & NER + ASR combined algorithm trained on labeled image and video web data to extract named and generic entities (see [📜 Submitted Patents](#📜-submitted-patents))
