@@ -1,5 +1,5 @@
 # Anand Sampat 
-*Entrepreneurial technical leader in ML + MLOps + SW + HW engineering (and sometimes podcast host) looking to lead teams at high-growth companies solving difficult problems using technology in order to [Do Well by Doing Good](http://dwdgsf.com).*
+*Entrepreneurial technical leader in ML + MLOps + SW + HW engineering (and sometimes podcast host) looking to lead teams at high-growth companies solving difficult problems using technology in order to [Do Well by Doing Good](https://linktr.ee/dwdg).*
 
 [Email](me@anandsampat.com) / [Website](https://anandsampat.com) / [LinkedIn](https://linkedin.com/in/anandsampat) / [Github](https://github.com/asampat3090) / [Twitter](https://twitter.com/anandsampat)
 
