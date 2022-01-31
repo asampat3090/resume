@@ -8,7 +8,10 @@
 * Berkeley (BS EECS, BS MatSci, MS MatSci)
 
 ## 💼 Leadership Experience 
-**Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Present)*
+**Machine Learning Products** @ [PathAI](https://www.pathai.com/) *(Jan 2022 - Present)*
+* Leading a team to generalize and productionize CV algorithms to improve patient outcomes
+
+**Director of Solutions** @ [One Concern](https://oneconcern.com) *(2019 - Jan 2022)*
 * Developed new technical analytical organization (org struct, comp, financial planning, budgeting, career ladder, prioritization, etc) from scratch which develops model prototypes to integrate impact statistics from natural disasters into users' workflow
 * Led technical diligence and PoC implementation to secure $100M investment from SOMPO to promote disaster preparedness in Japan. [Details](https://techcrunch.com/2021/06/03/one-concern-sompo/)
 * Hired & formulated JDs for ~20 data scientists, engineers, and technical subject matter experts (Interviewed 100+)
